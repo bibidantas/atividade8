@@ -18,7 +18,7 @@ for i in range(1, 11):
         print(f"Obrigado por sua avaliação EXCELENTE, {nome}, esperamos continuar atendendo suas expectativas!")
         Excelente += 1
 
-    elif avaliação == 2:
+    elif avaliação == 2: 
         print(f"Agradecemos sua avaliação BOM, {nome}, estamos sempre buscando melhorar para oferecer um atendimento EXCELENTE!")
    
     elif avaliação == 3:

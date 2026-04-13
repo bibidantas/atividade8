@@ -61,7 +61,7 @@ Total de avaliações RUIM: Y
 ## 📚 Conceitos aplicados
 
 - Variáveis
-- Entrada e saída de dados
+- Entrada e saída de dados 
 - Estruturas de repetição (for)
 - Estruturas condicionais (if/elif/else)
 - Contadores
