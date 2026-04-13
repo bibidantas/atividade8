@@ -29,6 +29,8 @@ for i in range(1, 11):
         print("Opção inválida. Por favor, avalie usando os números 1, 2 ou 3.")
 
 #Resultado final
+
 print("\n=====Resultado da Pesquisa de Satisfação=====")
 print(f"Total de avaliações EXCELENTE: {Excelente}")
 print(f"Total de avalições RUIM: {Ruim}")
+
